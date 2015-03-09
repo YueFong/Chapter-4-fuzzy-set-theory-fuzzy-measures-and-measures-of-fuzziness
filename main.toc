@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {1}{Fuzzy Measures and Measures of Fuzziness}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{4.1 Fuzzy Measures}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{4.2 Measures of Fuzziness}{8}{0}{1}
